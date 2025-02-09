@@ -43,33 +43,33 @@
 ### 📌 Featured Projects  
 #### 🚀 **Next.js LangChain Gemini RAG PDF Chatbot**  
 A chatbot using **LangChain and Gemini API** to answer questions from uploaded PDFs.  
-🔗 **![Live Demo](https://nextjs-langchain-gemini-rag-pdf-chatbot.vercel.app)**  
-📜 **![GitHub](https://github.com/SURAJ-K-GUPTA/nextjs-langchain-gemini-rag-pdf-chatbot)**
+🔗 **[Live Demo](https://nextjs-langchain-gemini-rag-pdf-chatbot.vercel.app)**  
+📜 **[GitHub](https://github.com/SURAJ-K-GUPTA/nextjs-langchain-gemini-rag-pdf-chatbot)**
 
 #### 📄 **PDF-WIZARD**  
 An **AI-powered PDF assistant** built with **FastAPI, Hugging Face NLP, and OpenAI**.  
-🔗 **![Live Demo](https://pdf-wizard-eight.vercel.app)**  
-📜 **![GitHub](https://github.com/SURAJ-K-GUPTA/PDF-WIZARD)**  
+🔗 **[Live Demo](https://pdf-wizard-eight.vercel.app)**  
+📜 **[GitHub](https://github.com/SURAJ-K-GUPTA/PDF-WIZARD)**  
 
 #### 📰 **Real-Time News App**  
 A **Next.js & Firebase** powered **real-time news app** fetching live updates from GNews API.  
-🔗 **![Live Demo](https://aconewssuraj.web.app)**  
-📜 **![GitHub](https://github.com/SURAJ-K-GUPTA/aconews)**  
+🔗 **[Live Demo](https://aconewssuraj.web.app)**  
+📜 **[GitHub](https://github.com/SURAJ-K-GUPTA/aconews)**  
 
 #### 💬 **Real-Time Chat Application**  
 Built using **MERN Stack & Socket.IO**, featuring **real-time messaging & user authentication**.  
-📜 **![GitHub](https://github.com/SURAJ-K-GUPTA/chat-app)**  
+📜 **[GitHub](https://github.com/SURAJ-K-GUPTA/chat-app)**  
 
 #### 🤖 **AI Projects (OpenAI, LangChain, Hugging Face)**  
 Showcasing various AI-powered solutions using **OpenAI Function Calling, embeddings, similarity search, recommendation systems, vector databases (Pinecone, ChromaDB)**.  
-📜 **![GitHub](https://github.com/SURAJ-K-GUPTA/ai-projects-nodejs)**  
+📜 **[GitHub](https://github.com/SURAJ-K-GUPTA/ai-projects-nodejs)**  
 
 ---
 
 ### 📫 Connect with Me  
-🌍 **![Portfolio](https://surajkumargupta.com)**  
-🐙 **![GitHub](https://github.com/SURAJ-K-GUPTA)**  
-💼 **![LinkedIn:](https://www.linkedin.com/in/suraj-kumar-gupta)**  
+🌍 **Portfolio**: [surajkumargupta.com](https://surajkumargupta.com)**  
+🐙 **GitHub**: [SURAJ-K-GUPTA](https://github.com/SURAJ-K-GUPTA)**  
+💼 **LinkedIn**: [suraj-kumar-gupta](https://www.linkedin.com/in/suraj-kumar-gupta)**  
 
 ---
 
