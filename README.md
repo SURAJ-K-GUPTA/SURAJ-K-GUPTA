@@ -67,9 +67,9 @@ Showcasing various AI-powered solutions using **OpenAI Function Calling, embeddi
 ---
 
 ### 📫 Connect with Me  
-🌍 **Portfolio**: [surajkumargupta.com](https://surajkumargupta.com)**  
-🐙 **GitHub**: [SURAJ-K-GUPTA](https://github.com/SURAJ-K-GUPTA)**  
-💼 **LinkedIn**: [suraj-kumar-gupta](https://www.linkedin.com/in/suraj-kumar-gupta)**  
+🌍 **Portfolio**: [surajkumargupta.com](https://surajkumargupta.com)  
+🐙 **GitHub**: [SURAJ-K-GUPTA](https://github.com/SURAJ-K-GUPTA)  
+💼 **LinkedIn**: [suraj-kumar-gupta](https://www.linkedin.com/in/suraj-kumar-gupta)  
 
 ---
 
